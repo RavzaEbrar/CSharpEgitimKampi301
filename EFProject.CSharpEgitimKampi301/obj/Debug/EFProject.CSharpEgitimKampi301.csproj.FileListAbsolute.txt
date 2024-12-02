@@ -1,0 +1,17 @@
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EFProject.CSharpEgitimKampi301.exe.config
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EFProject.CSharpEgitimKampi301.exe
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EFProject.CSharpEgitimKampi301.pdb
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EntityFramework.dll
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EntityFramework.SqlServer.dll
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EntityFramework.xml
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\bin\Debug\EntityFramework.SqlServer.xml
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.csproj.AssemblyReference.cache
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.Form1.resources
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.Properties.Resources.resources
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.csproj.GenerateResource.cache
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.csproj.CoreCompileInputs.cache
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProjec.767A4688.Up2Date
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.exe
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.pdb
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.FrmLocation.resources
+D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\EFProject.CSharpEgitimKampi301\obj\Debug\EFProject.CSharpEgitimKampi301.FrmStatistics.resources
