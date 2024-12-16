@@ -10,3 +10,15 @@ D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\01_CSharpEgitimKampi301
 D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CShar.7B6E3205.Up2Date
 D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.dll
 D:\Profiles\RAVZAEKICI\source\repos\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.pdb
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\01_CSharpEgitimKampi301.dll.config
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\01_CSharpEgitimKampi301.dll
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\01_CSharpEgitimKampi301.pdb
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\EntityFramework.dll
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\EntityFramework.SqlServer.dll
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\EntityFramework.xml
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\bin\Debug\EntityFramework.SqlServer.xml
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.csproj.AssemblyReference.cache
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.csproj.CoreCompileInputs.cache
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CShar.7B6E3205.Up2Date
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.dll
+D:\Profiles\RAVZAEKICI\source\repos\RavzaEbrar\CSharpEgitimKampi301\01_CSharpEgitimKampi301\obj\Debug\01_CSharpEgitimKampi301.pdb

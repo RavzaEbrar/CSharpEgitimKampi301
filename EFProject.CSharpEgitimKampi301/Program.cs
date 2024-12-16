@@ -16,7 +16,7 @@ namespace EFProject.CSharpEgitimKampi301
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmStatistics());
+            Application.Run(new Form1());
         }
     }
 }

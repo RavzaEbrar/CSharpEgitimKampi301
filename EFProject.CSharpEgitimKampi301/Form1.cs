@@ -16,8 +16,8 @@ namespace EFProject.CSharpEgitimKampi301
         {
             InitializeComponent();
         }
-        
-        EgitimKampiEFTravelDbEntities2 db=new EgitimKampiEFTravelDbEntities2();
+
+        egitimkampiefTravelEntities db = new egitimkampiefTravelEntities();
         private void button3_Click(object sender, EventArgs e)
         {
             int id = int.Parse(textBox1.Text);

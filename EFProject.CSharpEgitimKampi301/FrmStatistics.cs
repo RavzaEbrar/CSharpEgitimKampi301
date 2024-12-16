@@ -16,7 +16,8 @@ namespace EFProject.CSharpEgitimKampi301
         {
             InitializeComponent();
         }
-        EgitimKampiEFTravelDbEntities2 db=new EgitimKampiEFTravelDbEntities2();
+
+        egitimkampiefTravelEntities db =new egitimkampiefTravelEntities();
         private void FrmStatistics_Load(object sender, EventArgs e)
         {
             locationCount.Text= db.TblLocaiton.Count().ToString();

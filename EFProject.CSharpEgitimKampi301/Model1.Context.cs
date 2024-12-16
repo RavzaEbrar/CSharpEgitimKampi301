@@ -13,14 +13,11 @@ namespace EFProject.CSharpEgitimKampi301
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class EgitimKampiEFTravelDbEntities2 : DbContext
+    public partial class egitimkampiefTravelEntities : DbContext
     {
-        public EgitimKampiEFTravelDbEntities2()
-            : base ("name=EgitimKampiEFTravelDbEntities2") 
-            //base("name=EgitimKampiEFTravelDbEntities2")
+        public egitimkampiefTravelEntities()
+            : base("name=egitimkampiefTravelEntities")
         {
-            
-
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -28,10 +25,9 @@ namespace EFProject.CSharpEgitimKampi301
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
+        public virtual DbSet<TblAdmin> TblAdmin { get; set; }
         public virtual DbSet<TblCustomer> TblCustomer { get; set; }
         public virtual DbSet<TblGuide> TblGuide { get; set; }
         public virtual DbSet<TblLocaiton> TblLocaiton { get; set; }
-        public virtual DbSet<TblAdmin> TblAdmin { get; set; }
     }
 }

@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9F405B-4F96-4A73-9CCC-C767E6E062BF}|EFProject.CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301.csproj|d:\\profiles\\ravzaekici\\source\\repos\\csharpegitimkampi301\\efproject.csharpegitimkampi301\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9F405B-4F96-4A73-9CCC-C767E6E062BF}|EFProject.CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301.csproj|solutionrelative:efproject.csharpegitimkampi301\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9F405B-4F96-4A73-9CCC-C767E6E062BF}|EFProject.CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301.csproj|D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\efproject.csharpegitimkampi301\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F9F405B-4F96-4A73-9CCC-C767E6E062BF}|EFProject.CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301.csproj|solutionrelative:efproject.csharpegitimkampi301\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\RavzaEbrar\\CSharpEgitimKampi301\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 907,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmStatistics.cs",
-              "DocumentMoniker": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "ToolTip": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "RelativeToolTip": "EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T06:20:53.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmStatistics.cs [Design]",
-              "DocumentMoniker": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "EFProject.CSharpEgitimKampi301\\FrmStatistics.cs",
-              "ToolTip": "D:\\Profiles\\RAVZAEKICI\\source\\repos\\CSharpEgitimKampi301\\EFProject.CSharpEgitimKampi301\\FrmStatistics.cs [Design]",
-              "RelativeToolTip": "EFProject.CSharpEgitimKampi301\\FrmStatistics.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T06:13:03.401Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
