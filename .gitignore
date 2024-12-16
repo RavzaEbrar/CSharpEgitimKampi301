@@ -2,8 +2,18 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/CSharpEgitimKampi301/FileContentIndex/7239ed2f-3e18-4e7d-8152-8de5ae069ea1.vsidx
-/.vs/CSharpEgitimKampi301/FileContentIndex/02abaaca-7e75-42f7-8e6f-7f15362871ee.vsidx
-/.vs/CSharpEgitimKampi301/FileContentIndex/06281fb7-f976-4fc3-9074-cf42f7460629.vsidx
-/.vs/CSharpEgitimKampi301/FileContentIndex/70c50c87-cc3a-49c2-8bc0-67286ef27226.vsidx
-/.vs/CSharpEgitimKampi301/FileContentIndex/8b5b6901-6f02-4e16-a8db-2a2a5ef1bca1.vsidx
+*.vsidx
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.txt
+*.dll
+*.pdb
+
+/PresentationLayer.CSharpEgitimKampi301/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
