@@ -16,7 +16,7 @@ namespace DataAccessLayer.CSharpEgitimKampi301.EntityFramework
         {
             var context =new KampContext();
             var values = context.Products
-                .Select(x => new 
+                .Select(x => new  
                 {
                     ProductId = x.ProductId,
                     ProductName = x.ProductName,

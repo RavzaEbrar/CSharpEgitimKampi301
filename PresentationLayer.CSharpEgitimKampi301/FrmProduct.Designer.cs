@@ -42,11 +42,11 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,6 +58,7 @@
             this.button5.TabIndex = 25;
             this.button5.Text = "ID YE GÖRE GETİR";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
@@ -67,6 +68,7 @@
             this.button4.TabIndex = 24;
             this.button4.Text = "GÜNCELLE";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -86,6 +88,7 @@
             this.button2.TabIndex = 22;
             this.button2.Text = "EKLE ";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // textBox2
             // 
@@ -172,14 +175,6 @@
             this.label5.TabIndex = 28;
             this.label5.Text = "ÜRÜN FİYAT:";
             // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(146, 246);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(214, 119);
-            this.textBox5.TabIndex = 31;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -215,6 +210,14 @@
             this.button6.Text = "LİSTELE2";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(146, 233);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(214, 119);
+            this.textBox5.TabIndex = 31;
             // 
             // FrmProduct
             // 
@@ -266,10 +269,10 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.TextBox textBox5;
     }
 }
